@@ -1,4 +1,4 @@
-# Galerie-photo
+# Stage labocéa
 
 ![Page 1](./Labocea_Supervision_Diaporama.pptx_page-0001.jpg)
 ![Page 2](./Labocea_Supervision_Diaporama.pptx_page-0002.jpg)
